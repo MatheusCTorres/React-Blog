@@ -1,0 +1,22 @@
+{
+    "blogs": [
+      {
+        "title": "My new website",
+        "body": "lorem ipsum...",
+        "author": "Robertson",
+        "id": 1
+      },
+      {
+        "title": "welcome to my website",
+        "body": "lorem ipsum...",
+        "author": "Mark",
+        "id": 2
+      },
+      {
+        "title": "website",
+        "body": "lorem ipsum...",
+        "author": "Marian",
+        "id": 3
+      }
+    ]
+  }
